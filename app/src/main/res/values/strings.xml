@@ -1,0 +1,1187 @@
+<resources>
+    <string name="app_name">Musings on Love</string>
+    <string name="index">Index</string>
+    <string name="_7_krishna_instructs_uddhava">7. Krishna Instructs Uddhava</string>
+    <string name="_8_the_story_of_pingala">8. The Story of Pingala</string>
+    <string name="_9_detachment_from_everything_material">9. Detachment from Everything Material</string>
+    <string name="_10_the_nature_of_fruitive_activity">10. The Nature of Fruitive Activity</string>
+    <string name="_11_the_symptoms_of_conditioned_and_liberated_living_entities">11. The Symptoms of Conditioned and Liberated Living Entities</string>
+    <string name="_12_beyond_renunciation_and_knowledge">12. Beyond Renunciation and Knowledge</string>
+    <string name="_13_the_hamsa_avatar_answers_the_questions_of_the_sons_of_brahma">13. The Hamsa-avatar Answers the Questions of the Sons of Brahma</string>
+    <string name="_14_krishna_explains_the_yoga_system_to_uddhava">14. Krishna Explains the Yoga System to Uddhava</string>
+    <string name="_15_krishna_s_description_of_mystic_yoga_perfections">15. Krishna\'s Description of Mystic Yoga Perfections</string>
+    <string name="_16_the_lord_s_opulence">16. The Lord\'s Opulence</string>
+    <string name="_17_krishna_s_description_of_the_varnashrama_system">17. Krishna\'s Description of the Varnashrama System</string>
+    <string name="_18_description_of_varnashrama_dharma">18. Description of Varnashrama-dharma</string>
+    <string name="_19_the_perfection_of_spiritual_knowledge">19. The Perfection of Spiritual Knowledge</string>
+    <string name="_20_pure_devotional_service_surpasses_knowledge_and_detachment">20. Pure Devotional Service Surpasses Knowledge and Detachment</string>
+    <string name="_21_krishna_s_explanation_of_the_vedic_path">21. Krishna\'s Explanation of the Vedic Path</string>
+    <string name="_22_enumeration_of_the_elements_of_material_creation">22. Enumeration of the Elements of Material Creation</string>
+    <string name="_23_the_song_of_the_avanti_brahmana">23. The Song of the Avanti Brahmana</string>
+    <string name="_24_the_philosophy_of_sankhya">24. The Philosophy of Sankhya</string>
+    <string name="_25_the_three_modes_of_nature_and_beyond">25. The Three Modes of Nature and Beyond</string>
+    <string name="_26_the_aila_gita">26. The Aila-gita</string>
+    <string name="_27_krishna_s_instructions_on_the_process_of_deity_worship">27. Krishna\'s Instructions on the Process of Deity Worship</string>
+    <string name="_28_jnana_yoga">28. Jnana-yoga</string>
+    <string name="_29_bhakti_yoga">29. Bhakti-yoga</string>
+    <string name="loading">Loading</string>
+
+    <string name="part_1">Beauty of Love</string>
+    <string name="part_2">Inner Ramyana &amp; Gopika Gita</string>
+    <string name="part_3">Meditations on GGS</string>
+    <string name="part_4">Meditations on Love</string>
+    <string name="part_5">Power of Freedom</string>
+    <string name="part_6">Narad Bhakti Sutras</string>
+    <string name="part_7">Rehras Sahib</string>
+
+    <string name="chapter7">7. Krishna Instructs Uddhava</string>
+    <string name="chapter8">8. The Story of Pingala</string>
+    <string name="chapter9">9. Detachment from Everything Material</string>
+    <string name="chapter10">10. The Nature of Fruitive Activity</string>
+    <string name="chapter11">11. The Symptoms of Conditioned and Liberated Living Entities</string>
+    <string name="chapter12">12. Beyond Renunciation and Knowledge</string>
+    <string name="chapter13">13. The Hamsa-avatar Answers the Questions of the Sons of Brahma</string>
+    <string name="chapter14">14. Krishna Explains the Yoga System to Uddhava</string>
+    <string name="chapter15">15. Krishna\'s Description of Mystic Yoga Perfections</string>
+    <string name="chapter16">16. The Lord\'s Opulence</string>
+    <string name="chapter17">17. Krishna\'s Description of the Varnashrama System</string>
+    <string name="chapter18">18. Description of Varnashrama-dharma</string>
+    <string name="chapter19">19. The Perfection of Spiritual Knowledge</string>
+    <string name="chapter20">20. Pure Devotional Service Surpasses Knowledge and Detachment</string>
+    <string name="chapter21">21. Krishna\'s Explanation of the Vedic Path</string>
+    <string name="chapter22">22. Enumeration of the Elements of Material Creation</string>
+    <string name="chapter23">23. The Song of the Avanti Brahmana</string>
+    <string name="chapter24">24. The Philosophy of Sankhya</string>
+    <string name="chapter25">25. The Three Modes of Nature and Beyond</string>
+    <string name="chapter26">26. The Aila-gita</string>
+    <string name="chapter27">27. Krishna\'s Instructions on the Process of Deity Worship</string>
+    <string name="chapter28">28. Jnana-yoga</string>
+    <string name="chapter29">29. Bhakti-yoga</string>
+
+    <string-array name="part_one">
+        <item>Beauty of Love</item>
+    </string-array>
+
+    <string-array name="part_two">
+        <item>Inner Ramyana &amp; Gopika Gita</item>
+    </string-array>
+
+    <string-array name="part_three">
+        <item>Meditations on GGS</item>
+    </string-array>
+
+    <string-array name="part_four">
+        <item>Meditations on Love</item>
+    </string-array>
+
+    <string-array name="part_five">
+        <item>Narad Bhakti Sutras</item>
+    </string-array>
+
+    <string-array name="part_six">
+        <item>Power of Freedom</item>
+    </string-array>
+
+    <string-array name="part_seven">
+        <item>Rehras Sahib</item>
+    </string-array>
+
+    <string-array name="seven_arrays">
+        <item>Verse 7.1</item>
+        <item>Verse 7.2</item>
+        <item>Verse 7.3</item>
+        <item>Verse 7.4</item>
+        <item>Verse 7.5</item>
+        <item>Verse 7.6</item>
+        <item>Verse 7.7</item>
+        <item>Verse 7.8</item>
+        <item>Verse 7.9</item>
+        <item>Verse 7.10</item>
+        <item>Verse 7.11</item>
+        <item>Verse 7.12</item>
+        <item>Verse 7.13</item>
+        <item>Verse 7.14</item>
+        <item>Verse 7.15</item>
+        <item>Verse 7.16</item>
+        <item>Verse 7.17</item>
+        <item>Verse 7.18</item>
+        <item>Verse 7.19</item>
+        <item>Verse 7.20</item>
+        <item>Verse 7.21</item>
+        <item>Verse 7.22</item>
+        <item>Verse 7.23</item>
+        <item>Verse 7.24</item>
+        <item>Verse 7.25</item>
+        <item>Verse 7.26</item>
+        <item>Verse 7.27</item>
+        <item>Verse 7.28</item>
+        <item>Verse 7.29</item>
+        <item>Verse 7.30</item>
+        <item>Verse 7.31</item>
+        <item>Verse 7.32</item>
+        <item>Verse 7.33</item>
+        <item>Verse 7.34</item>
+        <item>Verse 7.35</item>
+        <item>Verse 7.36</item>
+        <item>Verse 7.37</item>
+        <item>Verse 7.38</item>
+        <item>Verse 7.39</item>
+        <item>Verse 7.40</item>
+        <item>Verse 7.41</item>
+        <item>Verse 7.42</item>
+        <item>Verse 7.43</item>
+        <item>Verse 7.44</item>
+        <item>Verse 7.45</item>
+        <item>Verse 7.46</item>
+        <item>Verse 7.47</item>
+        <item>Verse 7.48</item>
+        <item>Verse 7.49</item>
+        <item>Verse 7.50</item>
+        <item>Verse 7.51</item>
+        <item>Verse 7.52</item>
+        <item>Verse 7.53</item>
+        <item>Verse 7.54</item>
+        <item>Verse 7.55</item>
+        <item>Verse 7.56</item>
+        <item>Verse 7.57</item>
+        <item>Verse 7.58</item>
+        <item>Verse 7.59</item>
+        <item>Verse 7.60</item>
+        <item>Verse 7.61</item>
+        <item>Verse 7.62</item>
+        <item>Verse 7.63</item>
+        <item>Verse 7.64</item>
+        <item>Verse 7.65</item>
+        <item>Verse 7.66</item>
+        <item>Verse 7.67</item>
+        <item>Verse 7.68</item>
+        <item>Verse 7.69</item>
+        <item>Verse 7.70</item>
+        <item>Verse 7.71</item>
+        <item>Verse 7.72</item>
+        <item>Verse 7.73</item>
+        <item>Verse 7.74</item>
+    </string-array>
+
+    <string-array name="eight_array">
+        <item> Verse 8.1</item>
+        <item> Verse 8.2</item>
+        <item> Verse 8.3</item>
+        <item> Verse 8.4</item>
+        <item> Verse 8.5</item>
+        <item> Verse 8.6</item>
+        <item> Verse 8.7</item>
+        <item> Verse 8.8</item>
+        <item> Verse 8.9</item>
+        <item> Verse 8.10</item>
+        <item> Verse 8.11</item>
+        <item> Verse 8.12</item>
+        <item> Verse 8.13</item>
+        <item> Verse 8.14</item>
+        <item> Verse 8.15</item>
+        <item> Verse 8.16</item>
+        <item> Verse 8.17</item>
+        <item> Verse 8.18</item>
+        <item> Verse 8.19</item>
+        <item> Verse 8.20</item>
+        <item> Verse 8.21</item>
+        <item> Verse 8.22</item>
+        <item> Verse 8.23</item>
+        <item> Verse 8.24</item>
+        <item> Verse 8.25</item>
+        <item> Verse 8.26</item>
+        <item> Verse 8.27</item>
+        <item> Verse 8.28</item>
+        <item> Verse 8.29</item>
+        <item> Verse 8.30</item>
+        <item> Verse 8.31</item>
+        <item> Verse 8.32</item>
+        <item> Verse 8.33</item>
+        <item> Verse 8.34</item>
+        <item> Verse 8.35</item>
+        <item> Verse 8.36</item>
+        <item> Verse 8.37</item>
+        <item> Verse 8.38</item>
+        <item> Verse 8.39</item>
+        <item> Verse 8.40</item>
+        <item> Verse 8.41</item>
+        <item> Verse 8.42</item>
+        <item> Verse 8.43</item>
+        <item> Verse 8.44</item>
+    </string-array>
+
+    <string-array name="nine_array">
+        <item>  Verse 9.1</item>
+        <item>  Verse 9.2</item>
+        <item>  Verse 9.3</item>
+        <item>  Verse 9.4</item>
+        <item>  Verse 9.5</item>
+        <item>  Verse 9.6</item>
+        <item>  Verse 9.7</item>
+        <item>  Verse 9.8</item>
+        <item>  Verse 9.9</item>
+        <item>  Verse 9.10</item>
+        <item>  Verse 9.11</item>
+        <item>  Verse 9.12</item>
+        <item>  Verse 9.13</item>
+        <item>  Verse 9.14</item>
+        <item>  Verse 9.15</item>
+        <item>  Verse 9.16</item>
+        <item>  Verse 9.17</item>
+        <item>  Verse 9.18</item>
+        <item>  Verse 9.19</item>
+        <item>  Verse 9.20</item>
+        <item>  Verse 9.21</item>
+        <item>  Verse 9.22</item>
+        <item>  Verse 9.23</item>
+        <item>  Verse 9.24</item>
+        <item>  Verse 9.25</item>
+        <item>  Verse 9.26</item>
+        <item>  Verse 9.27</item>
+        <item>  Verse 9.28</item>
+        <item>  Verse 9.29</item>
+        <item>  Verse 9.30</item>
+        <item>  Verse 9.31</item>
+        <item>  Verse 9.32</item>
+        <item>  Verse 9.33</item>
+    </string-array>
+
+    <string-array name="ten_array">
+        <item>   Verse 10.1</item>
+        <item>   Verse 10.2</item>
+        <item>   Verse 10.3</item>
+        <item>   Verse 10.4</item>
+        <item>   Verse 10.5</item>
+        <item>   Verse 10.6</item>
+        <item>   Verse 10.7</item>
+        <item>   Verse 10.8</item>
+        <item>   Verse 10.9</item>
+        <item>   Verse 10.10</item>
+        <item>   Verse 10.11</item>
+        <item>   Verse 10.12</item>
+        <item>   Verse 10.13</item>
+        <item>   Verse 10.14</item>
+        <item>   Verse 10.15</item>
+        <item>   Verse 10.16</item>
+        <item>   Verse 10.17</item>
+        <item>   Verse 10.18</item>
+        <item>   Verse 10.19</item>
+        <item>   Verse 10.20</item>
+        <item>   Verse 10.21</item>
+        <item>   Verse 10.22</item>
+        <item>   Verse 10.23</item>
+        <item>   Verse 10.24</item>
+        <item>   Verse 10.25</item>
+        <item>   Verse 10.26</item>
+        <item>   Verse 10.27</item>
+        <item>   Verse 10.28</item>
+        <item>   Verse 10.29</item>
+        <item>   Verse 10.30</item>
+        <item>   Verse 10.31</item>
+        <item>   Verse 10.32</item>
+        <item>   Verse 10.33</item>
+        <item>   Verse 10.34</item>
+        <item>   Verse 10.35</item>
+        <item>   Verse 10.36</item>
+    </string-array>
+
+    <string-array name="eleven_array">
+        <item>Verse 11.1</item>
+        <item>Verse 11.2</item>
+        <item>Verse 11.3</item>
+        <item>Verse 11.4</item>
+        <item>Verse 11.5</item>
+        <item>Verse 11.6</item>
+        <item>Verse 11.7</item>
+        <item>Verse 11.8</item>
+        <item>Verse 11.9</item>
+        <item>Verse 11.10</item>
+        <item>Verse 11.11</item>
+        <item>Verse 11.12</item>
+        <item>Verse 11.13</item>
+        <item>Verse 11.14</item>
+        <item>Verse 11.15</item>
+        <item>Verse 11.16</item>
+        <item>Verse 11.17</item>
+        <item>Verse 11.18</item>
+        <item>Verse 11.19</item>
+        <item>Verse 11.20</item>
+        <item>Verse 11.21</item>
+        <item>Verse 11.22</item>
+        <item>Verse 11.23</item>
+        <item>Verse 11.24</item>
+        <item>Verse 11.25</item>
+        <item>Verse 11.26</item>
+        <item>Verse 11.27</item>
+        <item>Verse 11.28</item>
+        <item>Verse 11.29</item>
+        <item>Verse 11.30</item>
+        <item>Verse 11.31</item>
+        <item>Verse 11.32</item>
+        <item>Verse 11.33</item>
+        <item>Verse 11.34</item>
+        <item>Verse 11.35</item>
+        <item>Verse 11.36</item>
+        <item>Verse 11.37</item>
+        <item>Verse 11.38</item>
+        <item>Verse 11.39</item>
+        <item>Verse 11.40</item>
+        <item>Verse 11.41</item>
+        <item>Verse 11.42</item>
+        <item>Verse 11.43</item>
+        <item>Verse 11.44</item>
+        <item>Verse 11.45</item>
+        <item>Verse 11.46</item>
+        <item>Verse 11.47</item>
+        <item>Verse 11.48</item>
+        <item>Verse 11.49</item>
+    </string-array>
+
+    <string-array name="twelve_array">
+        <item>Verse 12.1</item>
+        <item>Verse 12.2</item>
+        <item>Verse 12.3</item>
+        <item>Verse 12.4</item>
+        <item>Verse 12.5</item>
+        <item>Verse 12.6</item>
+        <item>Verse 12.7</item>
+        <item>Verse 12.8</item>
+        <item>Verse 12.9</item>
+        <item>Verse 12.10</item>
+        <item>Verse 12.11</item>
+        <item>Verse 12.12</item>
+        <item>Verse 12.13</item>
+        <item>Verse 12.14</item>
+        <item>Verse 12.15</item>
+        <item>Verse 12.16</item>
+        <item>Verse 12.17</item>
+        <item>Verse 12.18</item>
+        <item>Verse 12.19</item>
+        <item>Verse 12.20</item>
+        <item>Verse 12.21</item>
+        <item>Verse 12.22</item>
+        <item>Verse 12.23</item>
+        <item>Verse 12.24</item>
+    </string-array>
+
+    <string-array name="thirteen_array">
+        <item>Verse 13.1</item>
+        <item>Verse 13.2</item>
+        <item>Verse 13.3</item>
+        <item>Verse 13.4</item>
+        <item>Verse 13.5</item>
+        <item>Verse 13.6</item>
+        <item>Verse 13.7</item>
+        <item>Verse 13.8</item>
+        <item>Verse 13.9</item>
+        <item>Verse 13.10</item>
+        <item>Verse 13.11</item>
+        <item>Verse 13.12</item>
+        <item>Verse 13.13</item>
+        <item>Verse 13.14</item>
+        <item>Verse 13.15</item>
+        <item>Verse 13.16</item>
+        <item>Verse 13.17</item>
+        <item>Verse 13.18</item>
+        <item>Verse 13.19</item>
+        <item>Verse 13.20</item>
+        <item>Verse 13.21</item>
+        <item>Verse 13.22</item>
+        <item>Verse 13.23</item>
+        <item>Verse 13.24</item>
+        <item>Verse 13.25</item>
+        <item>Verse 13.26</item>
+        <item>Verse 13.27</item>
+        <item>Verse 13.28</item>
+        <item>Verse 13.29</item>
+        <item>Verse 13.30</item>
+        <item>Verse 13.31</item>
+        <item>Verse 13.32</item>
+        <item>Verse 13.33</item>
+        <item>Verse 13.34</item>
+        <item>Verse 13.35</item>
+        <item>Verse 13.36</item>
+        <item>Verse 13.37</item>
+        <item>Verse 13.38</item>
+        <item>Verse 13.39</item>
+        <item>Verse 13.40</item>
+        <item>Verse 13.41</item>
+        <item>Verse 13.42</item>
+    </string-array>
+
+    <string-array name="fourteen_array">
+        <item>Verse 14.1</item>
+        <item>Verse 14.2</item>
+        <item>Verse 14.3</item>
+        <item>Verse 14.4</item>
+        <item>Verse 14.5</item>
+        <item>Verse 14.6</item>
+        <item>Verse 14.7</item>
+        <item>Verse 14.8</item>
+        <item>Verse 14.9</item>
+        <item>Verse 14.10</item>
+        <item>Verse 14.11</item>
+        <item>Verse 14.12</item>
+        <item>Verse 14.13</item>
+        <item>Verse 14.14</item>
+        <item>Verse 14.15</item>
+        <item>Verse 14.16</item>
+        <item>Verse 14.17</item>
+        <item>Verse 14.18</item>
+        <item>Verse 14.19</item>
+        <item>Verse 14.20</item>
+        <item>Verse 14.21</item>
+        <item>Verse 14.22</item>
+        <item>Verse 14.23</item>
+        <item>Verse 14.24</item>
+        <item>Verse 14.25</item>
+        <item>Verse 14.26</item>
+        <item>Verse 14.27</item>
+        <item>Verse 14.28</item>
+        <item>Verse 14.29</item>
+        <item>Verse 14.30</item>
+        <item>Verse 14.31</item>
+        <item>Verse 14.32</item>
+        <item>Verse 14.33</item>
+        <item>Verse 14.34</item>
+        <item>Verse 14.35</item>
+        <item>Verse 14.36</item>
+        <item>Verse 14.37</item>
+        <item>Verse 14.38</item>
+        <item>Verse 14.39</item>
+        <item>Verse 14.40</item>
+        <item>Verse 14.41</item>
+        <item>Verse 14.42</item>
+        <item>Verse 14.43</item>
+        <item>Verse 14.44</item>
+        <item>Verse 14.45</item>
+        <item>Verse 14.46</item>
+    </string-array>
+
+    <string-array name="fifteen_array">
+        <item>Verse 15.1</item>
+        <item>Verse 15.2</item>
+        <item>Verse 15.3</item>
+        <item>Verse 15.4</item>
+        <item>Verse 15.5</item>
+        <item>Verse 15.6</item>
+        <item>Verse 15.7</item>
+        <item>Verse 15.8</item>
+        <item>Verse 15.9</item>
+        <item>Verse 15.10</item>
+        <item>Verse 15.11</item>
+        <item>Verse 15.12</item>
+        <item>Verse 15.13</item>
+        <item>Verse 15.14</item>
+        <item>Verse 15.15</item>
+        <item>Verse 15.16</item>
+        <item>Verse 15.17</item>
+        <item>Verse 15.18</item>
+        <item>Verse 15.19</item>
+        <item>Verse 15.20</item>
+        <item>Verse 15.21</item>
+        <item>Verse 15.22</item>
+        <item>Verse 15.23</item>
+        <item>Verse 15.24</item>
+        <item>Verse 15.25</item>
+        <item>Verse 15.26</item>
+        <item>Verse 15.27</item>
+        <item>Verse 15.28</item>
+        <item>Verse 15.29</item>
+        <item>Verse 15.30</item>
+        <item>Verse 15.31</item>
+        <item>Verse 15.32</item>
+        <item>Verse 15.33</item>
+        <item>Verse 15.34</item>
+        <item>Verse 15.35</item>
+        <item>Verse 15.36</item>
+    </string-array>
+
+    <string-array name="sixteen_array">
+        <item>Verse 16.1</item>
+        <item>Verse 16.2</item>
+        <item>Verse 16.3</item>
+        <item>Verse 16.4</item>
+        <item>Verse 16.5</item>
+        <item>Verse 16.6</item>
+        <item>Verse 16.7</item>
+        <item>Verse 16.8</item>
+        <item>Verse 16.9</item>
+        <item>Verse 16.10</item>
+        <item>Verse 16.11</item>
+        <item>Verse 16.12</item>
+        <item>Verse 16.13</item>
+        <item>Verse 16.14</item>
+        <item>Verse 16.15</item>
+        <item>Verse 16.16</item>
+        <item>Verse 16.17</item>
+        <item>Verse 16.18</item>
+        <item>Verse 16.19</item>
+        <item>Verse 16.20</item>
+        <item>Verse 16.21</item>
+        <item>Verse 16.22</item>
+        <item>Verse 16.23</item>
+        <item>Verse 16.24</item>
+        <item>Verse 16.25</item>
+        <item>Verse 16.26</item>
+        <item>Verse 16.27</item>
+        <item>Verse 16.28</item>
+        <item>Verse 16.29</item>
+        <item>Verse 16.30</item>
+        <item>Verse 16.31</item>
+        <item>Verse 16.32</item>
+        <item>Verse 16.33</item>
+        <item>Verse 16.34</item>
+        <item>Verse 16.35</item>
+        <item>Verse 16.36</item>
+        <item>Verse 16.37</item>
+        <item>Verse 16.38</item>
+        <item>Verse 16.39</item>
+        <item>Verse 16.40</item>
+        <item>Verse 16.41</item>
+        <item>Verse 16.42</item>
+        <item>Verse 16.43</item>
+        <item>Verse 16.44</item>
+    </string-array>
+
+    <string-array name="seventeen_array">
+        <item>Verse 17.1</item>
+        <item>Verse 17.2</item>
+        <item>Verse 17.3</item>
+        <item>Verse 17.4</item>
+        <item>Verse 17.5</item>
+        <item>Verse 17.6</item>
+        <item>Verse 17.7</item>
+        <item>Verse 17.8</item>
+        <item>Verse 17.9</item>
+        <item>Verse 17.10</item>
+        <item>Verse 17.11</item>
+        <item>Verse 17.12</item>
+        <item>Verse 17.13</item>
+        <item>Verse 17.14</item>
+        <item>Verse 17.15</item>
+        <item>Verse 17.16</item>
+        <item>Verse 17.17</item>
+        <item>Verse 17.18</item>
+        <item>Verse 17.19</item>
+        <item>Verse 17.20</item>
+        <item>Verse 17.21</item>
+        <item>Verse 17.22</item>
+        <item>Verse 17.23</item>
+        <item>Verse 17.24</item>
+        <item>Verse 17.25</item>
+        <item>Verse 17.26</item>
+        <item>Verse 17.27</item>
+        <item>Verse 17.28</item>
+        <item>Verse 17.29</item>
+        <item>Verse 17.30</item>
+        <item>Verse 17.31</item>
+        <item>Verse 17.32</item>
+        <item>Verse 17.33</item>
+        <item>Verse 17.34</item>
+        <item>Verse 17.35</item>
+        <item>Verse 17.36</item>
+        <item>Verse 17.37</item>
+        <item>Verse 17.38</item>
+        <item>Verse 17.39</item>
+        <item>Verse 17.40</item>
+        <item>Verse 17.41</item>
+        <item>Verse 17.42</item>
+        <item>Verse 17.43</item>
+        <item>Verse 17.44</item>
+        <item>Verse 17.45</item>
+        <item>Verse 17.46</item>
+        <item>Verse 17.47</item>
+        <item>Verse 17.48</item>
+        <item>Verse 17.49</item>
+        <item>Verse 17.50</item>
+        <item>Verse 17.51</item>
+        <item>Verse 17.52</item>
+        <item>Verse 17.53</item>
+        <item>Verse 17.54</item>
+        <item>Verse 17.55</item>
+        <item>Verse 17.56</item>
+        <item>Verse 17.57</item>
+        <item>Verse 17.58</item>
+    </string-array>
+
+    <string-array name="eighteen_array">
+        <item>Verse 18.1</item>
+        <item>Verse 18.2</item>
+        <item>Verse 18.3</item>
+        <item>Verse 18.4</item>
+        <item>Verse 18.5</item>
+        <item>Verse 18.6</item>
+        <item>Verse 18.7</item>
+        <item>Verse 18.8</item>
+        <item>Verse 18.9</item>
+        <item>Verse 18.10</item>
+        <item>Verse 18.11</item>
+        <item>Verse 18.12</item>
+        <item>Verse 18.13</item>
+        <item>Verse 18.14</item>
+        <item>Verse 18.15</item>
+        <item>Verse 18.16</item>
+        <item>Verse 18.17</item>
+        <item>Verse 18.18</item>
+        <item>Verse 18.19</item>
+        <item>Verse 18.20</item>
+        <item>Verse 18.21</item>
+        <item>Verse 18.22</item>
+        <item>Verse 18.23</item>
+        <item>Verse 18.24</item>
+        <item>Verse 18.25</item>
+        <item>Verse 18.26</item>
+        <item>Verse 18.27</item>
+        <item>Verse 18.28</item>
+        <item>Verse 18.29</item>
+        <item>Verse 18.30</item>
+        <item>Verse 18.31</item>
+        <item>Verse 18.32</item>
+        <item>Verse 18.33</item>
+        <item>Verse 18.34</item>
+        <item>Verse 18.35</item>
+        <item>Verse 18.36</item>
+        <item>Verse 18.37</item>
+        <item>Verse 18.38</item>
+        <item>Verse 18.39</item>
+        <item>Verse 18.40</item>
+        <item>Verse 18.41</item>
+        <item>Verse 18.42</item>
+        <item>Verse 18.43</item>
+        <item>Verse 18.44</item>
+        <item>Verse 18.45</item>
+        <item>Verse 18.46</item>
+        <item>Verse 18.47</item>
+        <item>Verse 18.48</item>
+    </string-array>
+
+    <string-array name="nineteen_array">
+        <item>Verse 19.1</item>
+        <item>Verse 19.2</item>
+        <item>Verse 19.3</item>
+        <item>Verse 19.4</item>
+        <item>Verse 19.5</item>
+        <item>Verse 19.6</item>
+        <item>Verse 19.7</item>
+        <item>Verse 19.8</item>
+        <item>Verse 19.9</item>
+        <item>Verse 19.10</item>
+        <item>Verse 19.11</item>
+        <item>Verse 19.12</item>
+        <item>Verse 19.13</item>
+        <item>Verse 19.14</item>
+        <item>Verse 19.15</item>
+        <item>Verse 19.16</item>
+        <item>Verse 19.17</item>
+        <item>Verse 19.18</item>
+        <item>Verse 19.19</item>
+        <item>Verse 19.20</item>
+        <item>Verse 19.21</item>
+        <item>Verse 19.22</item>
+        <item>Verse 19.23</item>
+        <item>Verse 19.24</item>
+        <item>Verse 19.25</item>
+        <item>Verse 19.26</item>
+        <item>Verse 19.27</item>
+        <item>Verse 19.28</item>
+        <item>Verse 19.29</item>
+        <item>Verse 19.30</item>
+        <item>Verse 19.31</item>
+        <item>Verse 19.32</item>
+        <item>Verse 19.33</item>
+        <item>Verse 19.34</item>
+        <item>Verse 19.35</item>
+        <item>Verse 19.36</item>
+        <item>Verse 19.37</item>
+        <item>Verse 19.38</item>
+        <item>Verse 19.39</item>
+        <item>Verse 19.40</item>
+        <item>Verse 19.41</item>
+        <item>Verse 19.42</item>
+        <item>Verse 19.43</item>
+        <item>Verse 19.44</item>
+        <item>Verse 19.45</item>
+    </string-array>
+
+    <string-array name="twenty_array">
+        <item>Verse 20.1</item>
+        <item>Verse 20.2</item>
+        <item>Verse 20.3</item>
+        <item>Verse 20.4</item>
+        <item>Verse 20.5</item>
+        <item>Verse 20.6</item>
+        <item>Verse 20.7</item>
+        <item>Verse 20.8</item>
+        <item>Verse 20.9</item>
+        <item>Verse 20.10</item>
+        <item>Verse 20.11</item>
+        <item>Verse 20.12</item>
+        <item>Verse 20.13</item>
+        <item>Verse 20.14</item>
+        <item>Verse 20.15</item>
+        <item>Verse 20.16</item>
+        <item>Verse 20.17</item>
+        <item>Verse 20.18</item>
+        <item>Verse 20.19</item>
+        <item>Verse 20.20</item>
+        <item>Verse 20.21</item>
+        <item>Verse 20.22</item>
+        <item>Verse 20.23</item>
+        <item>Verse 20.24</item>
+        <item>Verse 20.25</item>
+        <item>Verse 20.26</item>
+        <item>Verse 20.27</item>
+        <item>Verse 20.28</item>
+        <item>Verse 20.29</item>
+        <item>Verse 20.30</item>
+        <item>Verse 20.31</item>
+        <item>Verse 20.32</item>
+        <item>Verse 20.33</item>
+        <item>Verse 20.34</item>
+        <item>Verse 20.35</item>
+        <item>Verse 20.36</item>
+        <item>Verse 20.37</item>
+    </string-array>
+
+    <string-array name="twenty_one">
+        <item>Verse 21.1</item>
+        <item>Verse 21.2</item>
+        <item>Verse 21.3</item>
+        <item>Verse 21.4</item>
+        <item>Verse 21.5</item>
+        <item>Verse 21.6</item>
+        <item>Verse 21.7</item>
+        <item>Verse 21.8</item>
+        <item>Verse 21.9</item>
+        <item>Verse 21.10</item>
+        <item>Verse 21.11</item>
+        <item>Verse 21.12</item>
+        <item>Verse 21.13</item>
+        <item>Verse 21.14</item>
+        <item>Verse 21.15</item>
+        <item>Verse 21.16</item>
+        <item>Verse 21.17</item>
+        <item>Verse 21.18</item>
+        <item>Verse 21.19</item>
+        <item>Verse 21.20</item>
+        <item>Verse 21.21</item>
+        <item>Verse 21.22</item>
+        <item>Verse 21.23</item>
+        <item>Verse 21.24</item>
+        <item>Verse 21.25</item>
+        <item>Verse 21.26</item>
+        <item>Verse 21.27</item>
+        <item>Verse 21.28</item>
+        <item>Verse 21.29</item>
+        <item>Verse 21.30</item>
+        <item>Verse 21.31</item>
+        <item>Verse 21.32</item>
+        <item>Verse 21.33</item>
+        <item>Verse 21.34</item>
+        <item>Verse 21.35</item>
+        <item>Verse 21.36</item>
+        <item>Verse 21.37</item>
+        <item>Verse 21.38</item>
+        <item>Verse 21.39</item>
+        <item>Verse 21.40</item>
+        <item>Verse 21.41</item>
+        <item>Verse 21.42</item>
+        <item>Verse 21.43</item>
+    </string-array>
+
+    <string-array name="twenty_two">
+        <item>Verse 22.1</item>
+        <item>Verse 22.2</item>
+        <item>Verse 22.3</item>
+        <item>Verse 22.4</item>
+        <item>Verse 22.5</item>
+        <item>Verse 22.6</item>
+        <item>Verse 22.7</item>
+        <item>Verse 22.8</item>
+        <item>Verse 22.9</item>
+        <item>Verse 22.10</item>
+        <item>Verse 22.11</item>
+        <item>Verse 22.12</item>
+        <item>Verse 22.13</item>
+        <item>Verse 22.14</item>
+        <item>Verse 22.15</item>
+        <item>Verse 22.16</item>
+        <item>Verse 22.17</item>
+        <item>Verse 22.18</item>
+        <item>Verse 22.19</item>
+        <item>Verse 22.20</item>
+        <item>Verse 22.21</item>
+        <item>Verse 22.22</item>
+        <item>Verse 22.23</item>
+        <item>Verse 22.24</item>
+        <item>Verse 22.25</item>
+        <item>Verse 22.26</item>
+        <item>Verse 22.27</item>
+        <item>Verse 22.28</item>
+        <item>Verse 22.29</item>
+        <item>Verse 22.30</item>
+        <item>Verse 22.31</item>
+        <item>Verse 22.32</item>
+        <item>Verse 22.33</item>
+        <item>Verse 22.34</item>
+        <item>Verse 22.35</item>
+        <item>Verse 22.36</item>
+        <item>Verse 22.37</item>
+        <item>Verse 22.38</item>
+        <item>Verse 22.39</item>
+        <item>Verse 22.40</item>
+        <item>Verse 22.41</item>
+        <item>Verse 22.42</item>
+        <item>Verse 22.43</item>
+        <item>Verse 22.44</item>
+        <item>Verse 22.45</item>
+        <item>Verse 22.46</item>
+        <item>Verse 22.47</item>
+        <item>Verse 22.48</item>
+        <item>Verse 22.49</item>
+        <item>Verse 22.50</item>
+        <item>Verse 22.51</item>
+        <item>Verse 22.52</item>
+        <item>Verse 22.53</item>
+        <item>Verse 22.54</item>
+        <item>Verse 22.55</item>
+        <item>Verse 22.56</item>
+        <item>Verse 22.57</item>
+        <item>Verse 22.58</item>
+        <item>Verse 22.59</item>
+        <item>Verse 22.60</item>
+        <item>Verse 22.61</item>
+    </string-array>
+
+    <string-array name="twenty_three">
+        <item>Verse 23.1</item>
+        <item>Verse 23.2</item>
+        <item>Verse 23.3</item>
+        <item>Verse 23.4</item>
+        <item>Verse 23.5</item>
+        <item>Verse 23.6</item>
+        <item>Verse 23.7</item>
+        <item>Verse 23.8</item>
+        <item>Verse 23.9</item>
+        <item>Verse 23.10</item>
+        <item>Verse 23.11</item>
+        <item>Verse 23.12</item>
+        <item>Verse 23.13</item>
+        <item>Verse 23.14</item>
+        <item>Verse 23.15</item>
+        <item>Verse 23.16</item>
+        <item>Verse 23.17</item>
+        <item>Verse 23.18</item>
+        <item>Verse 23.19</item>
+        <item>Verse 23.20</item>
+        <item>Verse 23.21</item>
+        <item>Verse 23.22</item>
+        <item>Verse 23.23</item>
+        <item>Verse 23.24</item>
+        <item>Verse 23.25</item>
+        <item>Verse 23.26</item>
+        <item>Verse 23.27</item>
+        <item>Verse 23.28</item>
+        <item>Verse 23.29</item>
+        <item>Verse 23.30</item>
+        <item>Verse 23.31</item>
+        <item>Verse 23.32</item>
+        <item>Verse 23.33</item>
+        <item>Verse 23.34</item>
+        <item>Verse 23.35</item>
+        <item>Verse 23.36</item>
+        <item>Verse 23.37</item>
+        <item>Verse 23.38</item>
+        <item>Verse 23.39</item>
+        <item>Verse 23.40</item>
+        <item>Verse 23.41</item>
+        <item>Verse 23.42</item>
+        <item>Verse 23.43</item>
+        <item>Verse 23.44</item>
+        <item>Verse 23.45</item>
+        <item>Verse 23.46</item>
+        <item>Verse 23.47</item>
+        <item>Verse 23.48</item>
+        <item>Verse 23.49</item>
+        <item>Verse 23.50</item>
+        <item>Verse 23.51</item>
+        <item>Verse 23.52</item>
+        <item>Verse 23.53</item>
+        <item>Verse 23.54</item>
+        <item>Verse 23.55</item>
+        <item>Verse 23.56</item>
+        <item>Verse 23.57</item>
+        <item>Verse 23.58</item>
+        <item>Verse 23.59</item>
+        <item>Verse 23.60</item>
+        <item>Verse 23.61</item>
+    </string-array>
+
+    <string-array name="twenty_four">
+        <item>Verse 24.1</item>
+        <item>Verse 24.2</item>
+        <item>Verse 24.3</item>
+        <item>Verse 24.4</item>
+        <item>Verse 24.5</item>
+        <item>Verse 24.6</item>
+        <item>Verse 24.7</item>
+        <item>Verse 24.8</item>
+        <item>Verse 24.9</item>
+        <item>Verse 24.10</item>
+        <item>Verse 24.11</item>
+        <item>Verse 24.12</item>
+        <item>Verse 24.13</item>
+        <item>Verse 24.14</item>
+        <item>Verse 24.15</item>
+        <item>Verse 24.16</item>
+        <item>Verse 24.17</item>
+        <item>Verse 24.18</item>
+        <item>Verse 24.19</item>
+        <item>Verse 24.20</item>
+        <item>Verse 24.21</item>
+        <item>Verse 24.22</item>
+        <item>Verse 24.23</item>
+        <item>Verse 24.24</item>
+        <item>Verse 24.25</item>
+        <item>Verse 24.26</item>
+        <item>Verse 24.27</item>
+        <item>Verse 24.28</item>
+        <item>Verse 24.29</item>
+    </string-array>
+
+    <string-array name="twenty_five">
+        <item>Verse 25.1</item>
+        <item>Verse 25.2</item>
+        <item>Verse 25.3</item>
+        <item>Verse 25.4</item>
+        <item>Verse 25.5</item>
+        <item>Verse 25.6</item>
+        <item>Verse 25.7</item>
+        <item>Verse 25.8</item>
+        <item>Verse 25.9</item>
+        <item>Verse 25.10</item>
+        <item>Verse 25.11</item>
+        <item>Verse 25.12</item>
+        <item>Verse 25.13</item>
+        <item>Verse 25.14</item>
+        <item>Verse 25.15</item>
+        <item>Verse 25.16</item>
+        <item>Verse 25.17</item>
+        <item>Verse 25.18</item>
+        <item>Verse 25.19</item>
+        <item>Verse 25.20</item>
+        <item>Verse 25.21</item>
+        <item>Verse 25.22</item>
+        <item>Verse 25.23</item>
+        <item>Verse 25.24</item>
+        <item>Verse 25.25</item>
+        <item>Verse 25.26</item>
+        <item>Verse 25.27</item>
+        <item>Verse 25.28</item>
+        <item>Verse 25.29</item>
+        <item>Verse 25.30</item>
+        <item>Verse 25.31</item>
+        <item>Verse 25.32</item>
+        <item>Verse 25.33</item>
+        <item>Verse 25.34</item>
+        <item>Verse 25.35</item>
+        <item>Verse 25.36</item>
+    </string-array>
+
+    <string-array name="twenty_six">
+        <item>Verse 26.1</item>
+        <item>Verse 26.2</item>
+        <item>Verse 26.3</item>
+        <item>Verse 26.4</item>
+        <item>Verse 26.5</item>
+        <item>Verse 26.6</item>
+        <item>Verse 26.7</item>
+        <item>Verse 26.8</item>
+        <item>Verse 26.9</item>
+        <item>Verse 26.10</item>
+        <item>Verse 26.11</item>
+        <item>Verse 26.12</item>
+        <item>Verse 26.13</item>
+        <item>Verse 26.14</item>
+        <item>Verse 26.15</item>
+        <item>Verse 26.16</item>
+        <item>Verse 26.17</item>
+        <item>Verse 26.18</item>
+        <item>Verse 26.19</item>
+        <item>Verse 26.20</item>
+        <item>Verse 26.21</item>
+        <item>Verse 26.22</item>
+        <item>Verse 26.23</item>
+        <item>Verse 26.24</item>
+        <item>Verse 26.25</item>
+        <item>Verse 26.26</item>
+        <item>Verse 26.27</item>
+        <item>Verse 26.28</item>
+        <item>Verse 26.29</item>
+        <item>Verse 26.30</item>
+        <item>Verse 26.31</item>
+        <item>Verse 26.32</item>
+        <item>Verse 26.33</item>
+        <item>Verse 26.34</item>
+        <item>Verse 26.35</item>
+    </string-array>
+
+    <string-array name="twenty_seven">
+        <item>Verse 27.1</item>
+        <item>Verse 27.2</item>
+        <item>Verse 27.3</item>
+        <item>Verse 27.4</item>
+        <item>Verse 27.5</item>
+        <item>Verse 27.6</item>
+        <item>Verse 27.7</item>
+        <item>Verse 27.8</item>
+        <item>Verse 27.9</item>
+        <item>Verse 27.10</item>
+        <item>Verse 27.11</item>
+        <item>Verse 27.12</item>
+        <item>Verse 27.13</item>
+        <item>Verse 27.14</item>
+        <item>Verse 27.15</item>
+        <item>Verse 27.16</item>
+        <item>Verse 27.17</item>
+        <item>Verse 27.18</item>
+        <item>Verse 27.19</item>
+        <item>Verse 27.20</item>
+        <item>Verse 27.21</item>
+        <item>Verse 27.22</item>
+        <item>Verse 27.23</item>
+        <item>Verse 27.24</item>
+        <item>Verse 27.25</item>
+        <item>Verse 27.26</item>
+        <item>Verse 27.27</item>
+        <item>Verse 27.28</item>
+        <item>Verse 27.29</item>
+        <item>Verse 27.30</item>
+        <item>Verse 27.31</item>
+        <item>Verse 27.32</item>
+        <item>Verse 27.33</item>
+        <item>Verse 27.34</item>
+        <item>Verse 27.35</item>
+        <item>Verse 27.36</item>
+        <item>Verse 27.37</item>
+        <item>Verse 27.38</item>
+        <item>Verse 27.39</item>
+        <item>Verse 27.40</item>
+        <item>Verse 27.41</item>
+        <item>Verse 27.42</item>
+        <item>Verse 27.43</item>
+        <item>Verse 27.44</item>
+        <item>Verse 27.45</item>
+        <item>Verse 27.46</item>
+        <item>Verse 27.47</item>
+        <item>Verse 27.48</item>
+        <item>Verse 27.49</item>
+        <item>Verse 27.50</item>
+        <item>Verse 27.51</item>
+        <item>Verse 27.52</item>
+        <item>Verse 27.53</item>
+        <item>Verse 27.54</item>
+        <item>Verse 27.55</item>
+    </string-array>
+
+    <string-array name="twenty_eight">
+        <item>Verse 28.1</item>
+        <item>Verse 28.2</item>
+        <item>Verse 28.3</item>
+        <item>Verse 28.4</item>
+        <item>Verse 28.5</item>
+        <item>Verse 28.6</item>
+        <item>Verse 28.7</item>
+        <item>Verse 28.8</item>
+        <item>Verse 28.9</item>
+        <item>Verse 28.10</item>
+        <item>Verse 28.11</item>
+        <item>Verse 28.12</item>
+        <item>Verse 28.13</item>
+        <item>Verse 28.14</item>
+        <item>Verse 28.15</item>
+        <item>Verse 28.16</item>
+        <item>Verse 28.17</item>
+        <item>Verse 28.18</item>
+        <item>Verse 28.19</item>
+        <item>Verse 28.20</item>
+        <item>Verse 28.21</item>
+        <item>Verse 28.22</item>
+        <item>Verse 28.23</item>
+        <item>Verse 28.24</item>
+        <item>Verse 28.25</item>
+        <item>Verse 28.26</item>
+        <item>Verse 28.27</item>
+        <item>Verse 28.28</item>
+        <item>Verse 28.29</item>
+        <item>Verse 28.30</item>
+        <item>Verse 28.31</item>
+        <item>Verse 28.32</item>
+        <item>Verse 28.33</item>
+        <item>Verse 28.34</item>
+        <item>Verse 28.35</item>
+        <item>Verse 28.36</item>
+        <item>Verse 28.37</item>
+        <item>Verse 28.38</item>
+        <item>Verse 28.39</item>
+        <item>Verse 28.40</item>
+        <item>Verse 28.41</item>
+        <item>Verse 28.42</item>
+        <item>Verse 28.43</item>
+        <item>Verse 28.44</item>
+    </string-array>
+
+    <string-array name="twenty_nine">
+        <item>Verse 29.1</item>
+        <item>Verse 29.2</item>
+        <item>Verse 29.3</item>
+        <item>Verse 29.4</item>
+        <item>Verse 29.5</item>
+        <item>Verse 29.6</item>
+        <item>Verse 29.7</item>
+        <item>Verse 29.8</item>
+        <item>Verse 29.9</item>
+        <item>Verse 29.10</item>
+        <item>Verse 29.11</item>
+        <item>Verse 29.12</item>
+        <item>Verse 29.13</item>
+        <item>Verse 29.14</item>
+        <item>Verse 29.15</item>
+        <item>Verse 29.16</item>
+        <item>Verse 29.17</item>
+        <item>Verse 29.18</item>
+        <item>Verse 29.19</item>
+        <item>Verse 29.20</item>
+        <item>Verse 29.21</item>
+        <item>Verse 29.22</item>
+        <item>Verse 29.23</item>
+        <item>Verse 29.24</item>
+        <item>Verse 29.25</item>
+        <item>Verse 29.26</item>
+        <item>Verse 29.27</item>
+        <item>Verse 29.28</item>
+        <item>Verse 29.29</item>
+        <item>Verse 29.30</item>
+        <item>Verse 29.31</item>
+        <item>Verse 29.32</item>
+        <item>Verse 29.33</item>
+        <item>Verse 29.34</item>
+        <item>Verse 29.35</item>
+        <item>Verse 29.36</item>
+        <item>Verse 29.37</item>
+        <item>Verse 29.38</item>
+        <item>Verse 29.39</item>
+        <item>Verse 29.40</item>
+        <item>Verse 29.41</item>
+        <item>Verse 29.42</item>
+        <item>Verse 29.43</item>
+        <item>Verse 29.44</item>
+        <item>Verse 29.45</item>
+        <item>Verse 29.46</item>
+        <item>Verse 29.47</item>
+        <item>Verse 29.48</item>
+        <item>Verse 29.49</item>
+    </string-array>
+
+</resources>
