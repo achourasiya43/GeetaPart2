@@ -8,12 +8,17 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.2'
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.1"
+
 
     }
 }
 
 allprojects {
     repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
         google()
         jcenter()
     }
