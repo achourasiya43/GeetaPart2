@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class MainActivityTest {
     @Test
-    public void shouldDisplayExpenseButton() throws Exception {
+    public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
     }
 }
