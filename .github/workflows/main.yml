@@ -15,14 +15,14 @@ jobs:
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
-      - name: Run lint
-        run: ./gradlew lintDebug
-
-      - name: Upload html test report
-        uses: actions/upload-artifact@v2
-        with:
-          name: lint.html
-          path: app/build/reports/lint-results-debug.html
+#      - name: Run lint
+#        run: ./gradlew lintDebug
+#
+#      - name: Upload html test report
+#        uses: actions/upload-artifact@v2
+#        with:
+#          name: lint.html
+#          path: app/build/reports/lint-results-debug.html
 
   unit-test:
     needs: [ lint ]
@@ -31,17 +31,17 @@ jobs:
       - name: Checkout the code
         uses: actions/checkout@v2
 
-      - name: Change wrapper permissions
-        run: chmod +x ./gradlew
-
-      - name: Run tests
-        run: ./gradlew test
-
-      - name: Upload test report
-        uses: actions/upload-artifact@v2
-        with:
-          name: unit_test_report
-          path: app/build/reports/tests/testReleaseUnitTest/
+#      - name: Change wrapper permissions
+#        run: chmod +x ./gradlew
+#
+#      - name: Run tests
+#        run: ./gradlew test
+#
+#      - name: Upload test report
+#        uses: actions/upload-artifact@v2
+#        with:
+#          name: unit_test_report
+#          path: app/build/reports/tests/testReleaseUnitTest/
 
   instrumentation-test:
     needs: [ unit-test ]
@@ -53,17 +53,17 @@ jobs:
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
-      - name: Run espresso tests
-        uses: reactivecircus/android-emulator-runner@v2
-        with:
-          api-level: 27
-          script: ./gradlew connectedCheck
-
-      - name: Upload test report
-        uses: actions/upload-artifact@v2
-        with:
-          name: instrumentation_test_report
-          path: app/build/reports/androidTests/connected/
+#      - name: Run espresso tests
+#        uses: reactivecircus/android-emulator-runner@v2
+#        with:
+#          api-level: 27
+#          script: ./gradlew connectedCheck
+#
+#      - name: Upload test report
+#        uses: actions/upload-artifact@v2
+#        with:
+#          name: instrumentation_test_report
+#          path: app/build/reports/androidTests/connected/
 
   static-code-analysis:
     needs: [ instrumentation-test ]
