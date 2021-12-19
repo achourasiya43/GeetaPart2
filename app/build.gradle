@@ -10,6 +10,8 @@ sonarqube {
         property "sonar.SONAR_TOKEN", "0eb6db90f5b6f187bf99506a3d80b8e027c12a47"
 
 
+
+
       /*  property "sonar.projectName", "MyProject"
         property "sonar.projectKey", "com.example.myproject"
         property "sonar.host.url", "http://192.114.1.1:9000"
