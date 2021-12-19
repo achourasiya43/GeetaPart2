@@ -7,7 +7,7 @@ sonarqube {
         property "sonar.organization", "achourasiya43"
         property "sonar.host.url", "https://sonarcloud.io"
         property "sonar.login", "achourasiya43"
-        property "sonar.SONAR_TOKEN", "7e73ac97f46469037a1b5bbb41386c3eb0003943"
+        property "sonar.SONAR_TOKEN", "0eb6db90f5b6f187bf99506a3d80b8e027c12a47"
 
 
       /*  property "sonar.projectName", "MyProject"
