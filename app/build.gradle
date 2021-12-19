@@ -4,12 +4,17 @@ apply plugin: 'org.sonarqube'
 sonarqube {
     properties {
         property "sonar.projectKey", "achourasiya43_GeetaPart2"
-        property "sonar-project.organization", "achourasiya43"
+        property "sonar.organization", "achourasiya43"
         property "sonar.host.url", "https://sonarcloud.io"
+        property "sonar.login", "achourasiya43"
+        property "sonar.password", "7e73ac97f46469037a1b5bbb41386c3eb0003943"
 
 
-
-       /* property "sonar.sources", "src/main/"
+      /*  property "sonar.projectName", "MyProject"
+        property "sonar.projectKey", "com.example.myproject"
+        property "sonar.host.url", "http://192.114.1.1:9000"
+        property "sonar.language", "java"
+        property "sonar.sources", "src/main/"
         property "sonar.login", "username"
         property "sonar.password", "password"*/
     }
